@@ -28,7 +28,7 @@ OrionLib:MakeNotification({
 print(value)
 end)
 
-local KillingCheats = PhantomForcesWindow:NewSection("💰 Dupe 💰")
+local KillingCheats = PhantomForcesWindow:NewSection("Dupe 💰")
 
 KillingCheats:CreateButton("Dupe Inventory 💵", function()
 OrionLib:MakeNotification({
